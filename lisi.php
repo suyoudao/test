@@ -1,4 +1,5 @@
 Git is a version control system.
+string
 Git is free software.
 phpinfo();
 heiheihei
